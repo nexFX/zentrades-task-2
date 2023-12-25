@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.card{
+    box-sizing: border-box; 
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.section{
+    margin-left:-250px;
+}
+.section-down{
+    margin-left: -620px;
+}
